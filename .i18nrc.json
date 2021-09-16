@@ -1,5 +1,6 @@
 {
   "translations": [
-    "translations/fr.json"
+    "translations/fr.json",
+    "translations/pt-BR.json"
   ]
 }

@@ -27,6 +27,7 @@ We are working on it, so any help is welcomed :-)
 Language | Locale | Translation progression
 -------- | ------ | -----------------------
 French | fr | 0.00 %
+Brazilian Portuguese | pt-BR | 0.05%
 
 ### Kibana 7.6.x
 
@@ -38,6 +39,7 @@ French | fr | 0.02 %
 
 - Italian
 - Spanish
+- Brazilian
 
 ## Contributing
 
