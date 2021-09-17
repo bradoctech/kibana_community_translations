@@ -1,0 +1,6 @@
+{
+  "monaco.painlessLanguage.autocomplete.docKeywordDescription": "Access a field value from a script using the doc['field_name'] syntax",
+  "monaco.painlessLanguage.autocomplete.emitKeywordDescription": "Emit value without returning.",
+  "monaco.painlessLanguage.autocomplete.fieldValueDescription": "Retrieve the value for field '{fieldName}'",
+  "monaco.painlessLanguage.autocomplete.paramsKeywordDescription": "Access variables passed into the script."
+}

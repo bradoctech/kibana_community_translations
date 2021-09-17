@@ -1,0 +1,42 @@
+{
+  "presentationUtil.dashboardPicker.searchDashboardPlaceholder": "Search dashboards...",
+  "presentationUtil.labs.components.browserSwitchHelp": "Enables the lab for this browser and persists after it closes.",
+  "presentationUtil.labs.components.browserSwitchName": "Browser",
+  "presentationUtil.labs.components.calloutHelp": "Refresh to apply changes",
+  "presentationUtil.labs.components.closeButtonLabel": "Close",
+  "presentationUtil.labs.components.descriptionMessage": "Try out our features that are in progress or experimental.",
+  "presentationUtil.labs.components.disabledStatusMessage": {
+    "comment": "Displays the disabled status of a lab project",
+    "text": "Default: {status}"
+  },
+  "presentationUtil.labs.components.enabledStatusMessage": {
+    "comment": "Displays the enabled status of a lab project",
+    "text": "Default: {status}"
+  },
+  "presentationUtil.labs.components.kibanaSwitchHelp": "Enables this lab for all Kibana users.",
+  "presentationUtil.labs.components.kibanaSwitchName": "Kibana",
+  "presentationUtil.labs.components.labFlagsLabel": "Lab flags",
+  "presentationUtil.labs.components.noProjectsMessage": "No labs currently available.",
+  "presentationUtil.labs.components.noProjectsinSolutionMessage": "No labs currently in {solutionName}.",
+  "presentationUtil.labs.components.overrideFlagsLabel": "Overrides",
+  "presentationUtil.labs.components.overridenIconTipLabel": "Default overridden",
+  "presentationUtil.labs.components.resetToDefaultLabel": "Reset to defaults",
+  "presentationUtil.labs.components.sessionSwitchHelp": "Enables the lab for this browser session, so it resets when it closes.",
+  "presentationUtil.labs.components.sessionSwitchName": "Session",
+  "presentationUtil.labs.components.titleLabel": "Labs",
+  "presentationUtil.labs.enableDeferBelowFoldProjectDescription": "Any panels below \"the fold\"-- the area hidden beyond the bottom of the window, accessed by scrolling-- will not be loaded immediately, but only when they enter the viewport",
+  "presentationUtil.labs.enableDeferBelowFoldProjectName": "Defer loading panels below \"the fold\"",
+  "presentationUtil.saveModalDashboard.addToDashboardLabel": "Add to dashboard",
+  "presentationUtil.saveModalDashboard.dashboardInfoTooltip": "items added to the Visualize Library are available to all dashboards. Edits to a library item appear everywhere it is used.",
+  "presentationUtil.saveModalDashboard.existingDashboardOptionLabel": "Existing",
+  "presentationUtil.saveModalDashboard.libraryOptionLabel": "Add to library",
+  "presentationUtil.saveModalDashboard.newDashboardOptionLabel": "New",
+  "presentationUtil.saveModalDashboard.noDashboardOptionLabel": "None",
+  "presentationUtil.saveModalDashboard.saveAndGoToDashboardLabel": "Save and go to Dashboard",
+  "presentationUtil.saveModalDashboard.saveLabel": "Salvar",
+  "presentationUtil.saveModalDashboard.saveToLibraryLabel": "Save and add to library",
+  "presentationUtil.solutionToolbar.editorMenuButtonLabel": "All editors",
+  "presentationUtil.solutionToolbar.libraryButtonLabel": "Adicionar a partir da biblioteca",
+  "presentationUtil.solutionToolbar.quickButton.ariaButtonLabel": "Criar novo {createType}",
+  "presentationUtil.solutionToolbar.quickButton.legendLabel": "Quick create"
+}

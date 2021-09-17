@@ -1,0 +1,7 @@
+{
+  "uiActions.actionPanel.more": "Mais",
+  "uiActions.actionPanel.title": "Options",
+  "uiActions.errors.incompatibleAction": "Action is incompatible",
+  "uiActions.triggers.rowClickTitle": "Table row click",
+  "uiActions.triggers.rowClickkDescription": "A click on a table row"
+}

@@ -1,0 +1,39 @@
+{
+  "maps_legacy.advancedSettings.visualization.tileMap.maxPrecision.cellDimensionsLinkText": "Explanation of cell dimensions",
+  "maps_legacy.advancedSettings.visualization.tileMap.maxPrecisionText": {
+    "comment": "Part of composite text: maps_legacy.advancedSettings.visualization.tileMap.maxPrecisionText + maps_legacy.advancedSettings.visualization.tileMap.maxPrecision.cellDimensionsLinkText",
+    "text": "The maximum geoHash precision displayed on tile maps: 7 is high, 10 is very high, 12 is the max. {cellDimensionsLink}"
+  },
+  "maps_legacy.advancedSettings.visualization.tileMap.maxPrecisionTitle": "Maximum tile map precision",
+  "maps_legacy.advancedSettings.visualization.tileMap.wmsDefaults.propertiesLinkText": "properties",
+  "maps_legacy.advancedSettings.visualization.tileMap.wmsDefaultsText": {
+    "comment": "Part of composite text: maps_legacy.advancedSettings.visualization.tileMap.wmsDefaultsText + maps_legacy.advancedSettings.visualization.tileMap.wmsDefaults.propertiesLinkText",
+    "text": "Default {propertiesLink} for the WMS map server support in the coordinate map"
+  },
+  "maps_legacy.advancedSettings.visualization.tileMap.wmsDefaultsTitle": "Default WMS properties",
+  "maps_legacy.baseMapsVisualization.childShouldImplementMethodErrorMessage": "Child should implement this method to respond to data-update",
+  "maps_legacy.defaultDistributionMessage": "To get Maps, upgrade to the {defaultDistribution} of Elasticsearch and Kibana.",
+  "maps_legacy.kibanaMap.leaflet.fitDataBoundsAriaLabel": "Fit Data Bounds",
+  "maps_legacy.legacyMapDeprecationMessage": "With Maps, you can add multiple layers and indices, plot individual documents, symbolize features from data values, add heatmaps, grids, and clusters, and more. {getMapsMessage}",
+  "maps_legacy.legacyMapDeprecationTitle": "{label} will migrate to Maps in 8.0.",
+  "maps_legacy.openInMapsButtonLabel": "View in Maps",
+  "maps_legacy.wmsOptions.attributionStringTip": "Attribution string for the lower right corner.",
+  "maps_legacy.wmsOptions.baseLayerSettingsTitle": "Base layer settings",
+  "maps_legacy.wmsOptions.imageFormatToUseTip": "Usually image/png or image/jpeg. Use png if the server will return transparent layers.",
+  "maps_legacy.wmsOptions.layersLabel": "Layers",
+  "maps_legacy.wmsOptions.listOfLayersToUseTip": "A comma separated list of layers to use.",
+  "maps_legacy.wmsOptions.mapLoadFailDescription": "If this parameter is incorrect, maps will fail to load.",
+  "maps_legacy.wmsOptions.urlOfWMSWebServiceTip": "The URL of the WMS web service.",
+  "maps_legacy.wmsOptions.useWMSCompliantMapTileServerTip": "Use WMS compliant map tile server. For advanced users only.",
+  "maps_legacy.wmsOptions.versionOfWMSserverSupportsTip": "The version of WMS the server supports.",
+  "maps_legacy.wmsOptions.wmsAttributionLabel": "WMS attribution",
+  "maps_legacy.wmsOptions.wmsDescription": "WMS is an {wmsLink} for map image services.",
+  "maps_legacy.wmsOptions.wmsFormatLabel": "WMS format",
+  "maps_legacy.wmsOptions.wmsLayersLabel": "WMS layers",
+  "maps_legacy.wmsOptions.wmsLinkText": "OGC standard",
+  "maps_legacy.wmsOptions.wmsMapServerLabel": "WMS map server",
+  "maps_legacy.wmsOptions.wmsServerSupportedStylesListTip": "A comma separated list of WMS server supported styles to use. Blank in most cases.",
+  "maps_legacy.wmsOptions.wmsStylesLabel": "WMS styles",
+  "maps_legacy.wmsOptions.wmsUrlLabel": "WMS url",
+  "maps_legacy.wmsOptions.wmsVersionLabel": "WMS version"
+}

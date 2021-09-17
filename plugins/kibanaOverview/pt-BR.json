@@ -1,0 +1,20 @@
+{
+  "kibanaOverview.addData.sampleDataButtonLabel": "Try our sample data",
+  "kibanaOverview.addData.sectionTitle": "Ingest your data",
+  "kibanaOverview.apps.title": "Explore these apps",
+  "kibanaOverview.gettingStarted.addDataButtonLabel": "Add your data",
+  "kibanaOverview.gettingStarted.description": "Kibana empowers you to visualize your data, your way.  Start with one question, and see where the answer leads you.",
+  "kibanaOverview.gettingStarted.title": "Getting started with Kibana",
+  "kibanaOverview.header.title": "Kibana",
+  "kibanaOverview.kibana.appDescription1": "Analyze data in dashboards.",
+  "kibanaOverview.kibana.appDescription2": "Search and find insights.",
+  "kibanaOverview.kibana.appDescription3": "Design pixel-perfect presentations.",
+  "kibanaOverview.kibana.appDescription4": "Plot geographic data.",
+  "kibanaOverview.kibana.appDescription5": "Model, predict, and detect.",
+  "kibanaOverview.kibana.appDescription6": "Reveal patterns and relationships.",
+  "kibanaOverview.kibana.solution.subtitle": "Visualize & analyze",
+  "kibanaOverview.kibana.solution.title": "Kibana",
+  "kibanaOverview.manageData.sectionTitle": "Manage your data",
+  "kibanaOverview.more.title": "Do more with Elastic",
+  "kibanaOverview.news.title": "What's new"
+}

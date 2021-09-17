@@ -1,0 +1,6 @@
+{
+  "xpack.licenseApiGuard.license.errorExpiredMessage": "You cannot use {pluginName} because your {licenseType} license has expired.",
+  "xpack.licenseApiGuard.license.errorUnavailableMessage": "You cannot use {pluginName} because license information is not available at this time.",
+  "xpack.licenseApiGuard.license.errorUnsupportedMessage": "Your {licenseType} license does not support {pluginName}. Please upgrade your license.",
+  "xpack.licenseApiGuard.license.genericErrorMessage": "You cannot use {pluginName} because the license check failed."
+}

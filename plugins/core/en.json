@@ -1,0 +1,579 @@
+{
+  "core.application.appContainer.loadingAriaLabel": "Loading application",
+  "core.application.appNotFound.pageDescription": "No application was found at this URL. Try going back or choosing an app from the menu.",
+  "core.application.appNotFound.title": "Application Not Found",
+  "core.application.appRenderError.defaultTitle": "Application error",
+  "core.chrome.browserDeprecationLink": "the support matrix on our website",
+  "core.chrome.browserDeprecationWarning": "Support for Internet Explorer will be dropped in future versions of this software, please check {link}.",
+  "core.chrome.legacyBrowserWarning": "Your browser does not meet the security requirements for Kibana.",
+  "core.euiAccordion.isLoading": "Loading",
+  "core.euiBasicTable.selectAllRows": {
+    "comment": "ARIA and displayed label on a checkbox to select all table rows",
+    "text": "Select all rows"
+  },
+  "core.euiBasicTable.selectThisRow": {
+    "comment": "ARIA and displayed label on a checkbox to select a single table row",
+    "text": "Select this row"
+  },
+  "core.euiBasicTable.tableAutoCaptionWithoutPagination": {
+    "comment": "Screen reader text to describe the size of a table",
+    "text": "This table contains {itemCount} rows."
+  },
+  "core.euiBasicTable.tableCaptionWithPagination": {
+    "comment": "Screen reader text to describe the size of a paginated table",
+    "text": "{tableCaption}; Page {page} of {pageCount}."
+  },
+  "core.euiBasicTable.tableDescriptionWithoutPagination": {
+    "comment": "Screen reader text to describe the size of a paginated table",
+    "text": "This table contains {itemCount} rows out of {totalItemCount} rows; Page {page} of {pageCount}."
+  },
+  "core.euiBasicTable.tablePagination": {
+    "comment": "Screen reader text to describe the pagination controls",
+    "text": "Pagination for preceding table: {tableCaption}"
+  },
+  "core.euiBasicTable.tableSimpleAutoCaptionWithPagination": {
+    "comment": "Screen reader text to describe the size of a paginated table",
+    "text": "This table contains {itemCount} rows; Page {page} of {pageCount}."
+  },
+  "core.euiBottomBar.customScreenReaderAnnouncement": {
+    "comment": "Screen reader announcement that functionality is available in the page document",
+    "text": "There is a new region landmark called {landmarkHeading} with page level controls at the end of the document."
+  },
+  "core.euiBottomBar.screenReaderAnnouncement": {
+    "comment": "Screen reader announcement that functionality is available in the page document",
+    "text": "There is a new region landmark with page level controls at the end of the document."
+  },
+  "core.euiBottomBar.screenReaderHeading": {
+    "comment": "Screen reader announcement about heading controls",
+    "text": "Page level controls"
+  },
+  "core.euiBreadcrumbs.collapsedBadge.ariaLabel": {
+    "comment": "Displayed when one or more breadcrumbs are hidden.",
+    "text": "Show collapsed breadcrumbs"
+  },
+  "core.euiCardSelect.select": {
+    "comment": "Displayed button text when a card option can be selected.",
+    "text": "Select"
+  },
+  "core.euiCardSelect.selected": {
+    "comment": "Displayed button text when a card option is selected.",
+    "text": "Selected"
+  },
+  "core.euiCardSelect.unavailable": {
+    "comment": "Displayed button text when a card option is unavailable.",
+    "text": "Unavailable"
+  },
+  "core.euiCodeBlock.copyButton": {
+    "comment": "ARIA label for a button that copies source code text to the clipboard",
+    "text": "Copy"
+  },
+  "core.euiCodeBlock.fullscreenCollapse": {
+    "comment": "ARIA label for a button that exits fullscreen view",
+    "text": "Collapse"
+  },
+  "core.euiCodeBlock.fullscreenExpand": {
+    "comment": "ARIA label for a button that enters fullscreen view",
+    "text": "Expand"
+  },
+  "core.euiCodeEditor.startEditing": {
+    "comment": "Screen reader text to prompt editing",
+    "text": "Press Enter to start editing."
+  },
+  "core.euiCodeEditor.startInteracting": {
+    "comment": "Screen reader text to prompt interaction",
+    "text": "Press Enter to start interacting with the code."
+  },
+  "core.euiCodeEditor.stopEditing": {
+    "comment": "Screen reader text to describe ending editing",
+    "text": "When you're done, press Escape to stop editing."
+  },
+  "core.euiCodeEditor.stopInteracting": {
+    "comment": "Screen reader text to describe ending interactions",
+    "text": "When you're done, press Escape to stop interacting with the code."
+  },
+  "core.euiCollapsedItemActions.allActions": {
+    "comment": "ARIA label and tooltip content describing a button that expands an actions menu",
+    "text": "All actions"
+  },
+  "core.euiCollapsibleNav.closeButtonLabel": "close",
+  "core.euiColorPicker.alphaLabel": {
+    "comment": "Label describing color alpha channel",
+    "text": "Alpha channel (opacity) value"
+  },
+  "core.euiColorPicker.closeLabel": {
+    "comment": "Screen reader text to describe how to open the picker",
+    "text": "Press the down key to open a popover containing color options"
+  },
+  "core.euiColorPicker.colorErrorMessage": "Invalid color value",
+  "core.euiColorPicker.colorLabel": "Color value",
+  "core.euiColorPicker.openLabel": {
+    "comment": "Screen reader text to describe how to close the picker",
+    "text": "Press the escape key to close the popover"
+  },
+  "core.euiColorPicker.screenReaderAnnouncement": {
+    "comment": "Message when the color picker popover is opened. Describes the interaction with the elements in the popover.",
+    "text": "A popup with a range of selectable colors opened. Tab forward to cycle through colors choices or press escape to close this popup."
+  },
+  "core.euiColorPicker.swatchAriaLabel": {
+    "comment": "Screen reader text to describe the action and hex value of the selectable option",
+    "text": "Select {swatch} as the color"
+  },
+  "core.euiColorPicker.transparent": "Transparent",
+  "core.euiColorStopThumb.buttonAriaLabel": {
+    "comment": "Screen reader text to describe picker interaction",
+    "text": "Press the Enter key to modify this stop. Press Escape to focus the group"
+  },
+  "core.euiColorStopThumb.buttonTitle": {
+    "comment": "Screen reader text to describe button interaction",
+    "text": "Click to edit, drag to reposition"
+  },
+  "core.euiColorStopThumb.removeLabel": {
+    "comment": "Label accompanying a button whose action will remove the color stop",
+    "text": "Remove this stop"
+  },
+  "core.euiColorStopThumb.screenReaderAnnouncement": {
+    "comment": "Message when the color picker popover has opened for an individual color stop thumb.",
+    "text": "A popup with a color stop edit form opened. Tab forward to cycle through form controls or press escape to close this popup."
+  },
+  "core.euiColorStopThumb.stopErrorMessage": "Value is out of range",
+  "core.euiColorStopThumb.stopLabel": "Stop value",
+  "core.euiColorStops.screenReaderAnnouncement": {
+    "comment": "Screen reader text to describe the composite behavior of the color stops component.",
+    "text": "{label}: {readOnly} {disabled} Color stop picker. Each stop consists of a number and corresponding color value. Use the Down and Up arrow keys to select individual stops. Press the Enter key to create a new stop."
+  },
+  "core.euiColumnActions.moveLeft": "Move left",
+  "core.euiColumnActions.moveRight": "Move right",
+  "core.euiColumnActions.sort": "Sort {schemaLabel}",
+  "core.euiColumnSelector.button": "Columns",
+  "core.euiColumnSelector.buttonActivePlural": "{numberOfHiddenFields} columns hidden",
+  "core.euiColumnSelector.buttonActiveSingular": "{numberOfHiddenFields} column hidden",
+  "core.euiColumnSelector.hideAll": "Hide all",
+  "core.euiColumnSelector.search": "Search",
+  "core.euiColumnSelector.searchcolumns": "Search columns",
+  "core.euiColumnSelector.selectAll": "Show all",
+  "core.euiColumnSorting.button": "Sort fields",
+  "core.euiColumnSorting.buttonActive": "fields sorted",
+  "core.euiColumnSorting.clearAll": "Clear sorting",
+  "core.euiColumnSorting.emptySorting": "Currently no fields are sorted",
+  "core.euiColumnSorting.pickFields": "Pick fields to sort by",
+  "core.euiColumnSorting.sortFieldAriaLabel": "Sort by:",
+  "core.euiColumnSortingDraggable.activeSortLabel": "is sorting this data grid",
+  "core.euiColumnSortingDraggable.defaultSortAsc": {
+    "comment": "Ascending sort label",
+    "text": "A-Z"
+  },
+  "core.euiColumnSortingDraggable.defaultSortDesc": {
+    "comment": "Descending sort label",
+    "text": "Z-A"
+  },
+  "core.euiColumnSortingDraggable.removeSortLabel": "Remove from data grid sort:",
+  "core.euiColumnSortingDraggable.toggleLegend": "Select sorting method for field:",
+  "core.euiComboBoxOptionsList.allOptionsSelected": "You've selected all available options",
+  "core.euiComboBoxOptionsList.alreadyAdded": "{label} has already been added",
+  "core.euiComboBoxOptionsList.createCustomOption": "Add {searchValue} as a custom option",
+  "core.euiComboBoxOptionsList.delimiterMessage": {
+    "comment": "Screen reader text describing adding delimited options",
+    "text": "Add each item separated by {delimiter}"
+  },
+  "core.euiComboBoxOptionsList.loadingOptions": {
+    "comment": "Placeholder message while data is asynchronously loaded",
+    "text": "Loading options"
+  },
+  "core.euiComboBoxOptionsList.noAvailableOptions": "There aren't any options available",
+  "core.euiComboBoxOptionsList.noMatchingOptions": "{searchValue} doesn't match any options",
+  "core.euiComboBoxPill.removeSelection": {
+    "comment": "ARIA label, `children` is the human-friendly value of an option",
+    "text": "Remove {children} from selection in this group"
+  },
+  "core.euiCommonlyUsedTimeRanges.legend": "Commonly used",
+  "core.euiDataGrid.ariaLabel": {
+    "comment": "Screen reader text to describe the size of the data grid",
+    "text": "{label}; Page {page} of {pageCount}."
+  },
+  "core.euiDataGrid.ariaLabelGridPagination": {
+    "comment": "Screen reader text to describe the pagination controls",
+    "text": "Pagination for preceding grid: {label}"
+  },
+  "core.euiDataGrid.ariaLabelledBy": {
+    "comment": "Screen reader text to describe the size of the data grid",
+    "text": "Page {page} of {pageCount}."
+  },
+  "core.euiDataGrid.ariaLabelledByGridPagination": {
+    "comment": "Screen reader text to describe the pagination controls",
+    "text": "Pagination for preceding grid"
+  },
+  "core.euiDataGrid.fullScreenButton": "Full screen",
+  "core.euiDataGrid.fullScreenButtonActive": "Exit full screen",
+  "core.euiDataGrid.screenReaderNotice": "Cell contains interactive content.",
+  "core.euiDataGridCell.column": "Column",
+  "core.euiDataGridCell.row": "Row",
+  "core.euiDataGridCellButtons.expandButtonTitle": "Click or hit enter to interact with cell content",
+  "core.euiDataGridHeaderCell.headerActions": "Header actions",
+  "core.euiDataGridSchema.booleanSortTextAsc": {
+    "comment": "Ascending boolean label",
+    "text": "False-True"
+  },
+  "core.euiDataGridSchema.booleanSortTextDesc": {
+    "comment": "Descending boolean label",
+    "text": "True-False"
+  },
+  "core.euiDataGridSchema.currencySortTextAsc": {
+    "comment": "Ascending currency label",
+    "text": "Low-High"
+  },
+  "core.euiDataGridSchema.currencySortTextDesc": {
+    "comment": "Descending currency label",
+    "text": "High-Low"
+  },
+  "core.euiDataGridSchema.dateSortTextAsc": {
+    "comment": "Ascending date label",
+    "text": "New-Old"
+  },
+  "core.euiDataGridSchema.dateSortTextDesc": {
+    "comment": "Descending date label",
+    "text": "Old-New"
+  },
+  "core.euiDataGridSchema.jsonSortTextAsc": {
+    "comment": "Ascending size label",
+    "text": "Small-Large"
+  },
+  "core.euiDataGridSchema.jsonSortTextDesc": {
+    "comment": "Descending size label",
+    "text": "Large-Small"
+  },
+  "core.euiDataGridSchema.numberSortTextAsc": {
+    "comment": "Ascending number label",
+    "text": "Low-High"
+  },
+  "core.euiDataGridSchema.numberSortTextDesc": {
+    "comment": "Descending number label",
+    "text": "High-Low"
+  },
+  "core.euiFieldPassword.maskPassword": "Mask password",
+  "core.euiFieldPassword.showPassword": "Show password as plain text. Note: this will visually expose your password on the screen.",
+  "core.euiFilePicker.clearSelectedFiles": "Clear selected files",
+  "core.euiFilePicker.filesSelected": "files selected",
+  "core.euiFilterButton.filterBadge": "${count} ${filterCountLabel} filters",
+  "core.euiFlyout.closeAriaLabel": "Close this dialog",
+  "core.euiForm.addressFormErrors": "Please address the highlighted errors.",
+  "core.euiFormControlLayoutClearButton.label": {
+    "comment": "ARIA label on a button that removes any entry in a form field",
+    "text": "Clear input"
+  },
+  "core.euiHeaderAlert.dismiss": {
+    "comment": "ARIA label on a button that dismisses/removes a notification",
+    "text": "Dismiss"
+  },
+  "core.euiHeaderLinks.appNavigation": {
+    "comment": "ARIA label on a `nav` element",
+    "text": "App menu"
+  },
+  "core.euiHeaderLinks.openNavigationMenu": "Open menu",
+  "core.euiHue.label": "Select the HSV color mode \"hue\" value",
+  "core.euiImage.closeImage": "Close full screen {alt} image",
+  "core.euiImage.openImage": "Open full screen {alt} image",
+  "core.euiLink.external.ariaLabel": "External link",
+  "core.euiLink.newTarget.screenReaderOnlyText": "(opens in a new tab or window)",
+  "core.euiMarkdownEditorFooter.closeButton": "Close",
+  "core.euiMarkdownEditorFooter.descriptionPrefix": "This editor uses",
+  "core.euiMarkdownEditorFooter.descriptionSuffix": "You can also utilize these additional syntax plugins to add rich content to your text.",
+  "core.euiMarkdownEditorFooter.errorsTitle": "Errors",
+  "core.euiMarkdownEditorFooter.openUploadModal": "Open upload files modal",
+  "core.euiMarkdownEditorFooter.showMarkdownHelp": "Show markdown help",
+  "core.euiMarkdownEditorFooter.showSyntaxErrors": "Show errors",
+  "core.euiMarkdownEditorFooter.supportedFileTypes": "Supported files: {supportedFileTypes}",
+  "core.euiMarkdownEditorFooter.syntaxTitle": "Syntax help",
+  "core.euiMarkdownEditorFooter.unsupportedFileType": "File type not supported",
+  "core.euiMarkdownEditorFooter.uploadingFiles": "Click to upload files",
+  "core.euiMarkdownEditorToolbar.editor": "Editor",
+  "core.euiMarkdownEditorToolbar.previewMarkdown": "Preview",
+  "core.euiModal.closeModal": "Closes this modal window",
+  "core.euiNotificationEventMessages.accordionAriaLabelButtonText": "+ {messagesLength} more",
+  "core.euiNotificationEventMessages.accordionButtonText": "+ {messagesLength} messages for {eventName}",
+  "core.euiNotificationEventMessages.accordionHideText": "hide",
+  "core.euiNotificationEventMeta.contextMenuButton": "Menu for {eventName}",
+  "core.euiNotificationEventReadButton.markAsRead": "Mark as read",
+  "core.euiNotificationEventReadButton.markAsReadAria": "Mark {eventName} as read",
+  "core.euiNotificationEventReadButton.markAsUnread": "Mark as unread",
+  "core.euiNotificationEventReadButton.markAsUnreadAria": "Mark {eventName} as unread",
+  "core.euiPagination.disabledNextPage": "Next page",
+  "core.euiPagination.disabledPreviousPage": "Previous page",
+  "core.euiPagination.firstRangeAriaLabel": "Skipping pages 2 to {lastPage}",
+  "core.euiPagination.lastRangeAriaLabel": "Skipping pages {firstPage} to {lastPage}",
+  "core.euiPagination.nextPage": "Next page, {page}",
+  "core.euiPagination.previousPage": "Previous page, {page}",
+  "core.euiPaginationButton.longPageString": {
+    "comment": "Text to describe the size of a paginated section",
+    "text": "Page {page} of {totalPages}"
+  },
+  "core.euiPaginationButton.shortPageString": {
+    "comment": "Text to describe the current page of a paginated section",
+    "text": "Page {page}"
+  },
+  "core.euiPinnableListGroup.pinExtraActionLabel": "Pin item",
+  "core.euiPinnableListGroup.pinnedExtraActionLabel": "Unpin item",
+  "core.euiPopover.screenReaderAnnouncement": "You are in a dialog. To close this dialog, hit escape.",
+  "core.euiProgress.valueText": "{value}%",
+  "core.euiQuickSelect.applyButton": "Apply",
+  "core.euiQuickSelect.fullDescription": "Currently set to {timeTense} {timeValue} {timeUnit}.",
+  "core.euiQuickSelect.legendText": "Quick select a time range",
+  "core.euiQuickSelect.nextLabel": "Next time window",
+  "core.euiQuickSelect.previousLabel": "Previous time window",
+  "core.euiQuickSelect.quickSelectTitle": "Quick select",
+  "core.euiQuickSelect.tenseLabel": "Time tense",
+  "core.euiQuickSelect.unitLabel": "Time unit",
+  "core.euiQuickSelect.valueLabel": "Time value",
+  "core.euiRecentlyUsed.legend": "Recently used date ranges",
+  "core.euiRefreshInterval.fullDescription": "Refresh interval currently set to {optionValue} {optionText}.",
+  "core.euiRefreshInterval.legend": "Refresh every",
+  "core.euiRefreshInterval.start": "Start",
+  "core.euiRefreshInterval.stop": "Stop",
+  "core.euiRelativeTab.fullDescription": "The unit is changeable. Currently set to {unit}.",
+  "core.euiRelativeTab.numberInputError": "Must be >= 0",
+  "core.euiRelativeTab.numberInputLabel": "Time span amount",
+  "core.euiRelativeTab.relativeDate": "{position} date",
+  "core.euiRelativeTab.roundingLabel": "Round to the {unit}",
+  "core.euiRelativeTab.unitInputLabel": "Relative time span",
+  "core.euiResizableButton.horizontalResizerAriaLabel": "Press left or right to adjust panels size",
+  "core.euiResizableButton.verticalResizerAriaLabel": "Press up or down to adjust panels size",
+  "core.euiResizablePanel.toggleButtonAriaLabel": "Press to toggle this panel",
+  "core.euiSaturation.roleDescription": "HSV color mode saturation and value selection",
+  "core.euiSaturation.screenReaderAnnouncement": "Use the arrow keys to navigate the square color gradient. The coordinates resulting from each key press will be used to calculate HSV color mode \"saturation\" and \"value\" numbers, in the range of 0 to 1. Left and right decrease and increase (respectively) the \"saturation\" value. Up and down decrease and increase (respectively) the \"value\" value.",
+  "core.euiSelectable.loadingOptions": {
+    "comment": "Placeholder message while data is asynchronously loaded",
+    "text": "Loading options"
+  },
+  "core.euiSelectable.noAvailableOptions": "There aren't any options available",
+  "core.euiSelectable.noMatchingOptions": "{searchValue} doesn't match any options",
+  "core.euiSelectable.placeholderName": "Filter options",
+  "core.euiSelectableListItem.excludedOption": "Excluded option.",
+  "core.euiSelectableListItem.excludedOptionInstructions": "To deselect this option, press enter",
+  "core.euiSelectableListItem.includedOption": "Included option.",
+  "core.euiSelectableListItem.includedOptionInstructions": "To exclude this option, press enter.",
+  "core.euiSelectableTemplateSitewide.loadingResults": "Loading results",
+  "core.euiSelectableTemplateSitewide.noResults": "No results available",
+  "core.euiSelectableTemplateSitewide.onFocusBadgeGoTo": "Go to",
+  "core.euiSelectableTemplateSitewide.searchPlaceholder": "Search for anything...",
+  "core.euiStat.loadingText": "Statistic is loading",
+  "core.euiStepStrings.complete": "Step {number}: {title} is complete",
+  "core.euiStepStrings.disabled": "Step {number}: {title} is disabled",
+  "core.euiStepStrings.errors": "Step {number}: {title} has errors",
+  "core.euiStepStrings.incomplete": "Step {number}: {title} is incomplete",
+  "core.euiStepStrings.loading": "Step {number}: {title} is loading",
+  "core.euiStepStrings.simpleComplete": "Step {number} is complete",
+  "core.euiStepStrings.simpleDisabled": "Step {number} is disabled",
+  "core.euiStepStrings.simpleErrors": "Step {number} has errors",
+  "core.euiStepStrings.simpleIncomplete": "Step {number} is incomplete",
+  "core.euiStepStrings.simpleLoading": "Step {number} is loading",
+  "core.euiStepStrings.simpleStep": "Step {number}",
+  "core.euiStepStrings.simpleWarning": "Step {number} has warnings",
+  "core.euiStepStrings.step": "Step {number}: {title}",
+  "core.euiStepStrings.warning": "Step {number}: {title} has warnings",
+  "core.euiStyleSelector.buttonLegend": "Select the display density for the data grid",
+  "core.euiStyleSelector.buttonText": "Density",
+  "core.euiStyleSelector.labelCompact": "Compact density",
+  "core.euiStyleSelector.labelExpanded": "Expanded density",
+  "core.euiStyleSelector.labelNormal": "Normal density",
+  "core.euiSuperDatePicker.showDatesButtonLabel": {
+    "comment": "Displayed in a button that shows date picker",
+    "text": "Show dates"
+  },
+  "core.euiSuperSelect.screenReaderAnnouncement": "You are in a form selector of {optionsCount} items and must select a single option. Use the Up and Down keys to navigate or Escape to close.",
+  "core.euiSuperSelectControl.selectAnOption": "Select an option: {selectedValue}, is selected",
+  "core.euiSuperUpdateButton.cannotUpdateTooltip": {
+    "comment": "Displayed in a tooltip when updates can't happen",
+    "text": "Cannot update"
+  },
+  "core.euiSuperUpdateButton.clickToApplyTooltip": {
+    "comment": "Displayed in a tooltip when there are changes that haven't been applied",
+    "text": "Click to apply"
+  },
+  "core.euiSuperUpdateButton.refreshButtonLabel": {
+    "comment": "Displayed in a button that refreshes based on date picked",
+    "text": "Refresh"
+  },
+  "core.euiSuperUpdateButton.updateButtonLabel": {
+    "comment": "Displayed in a button that updates based on date picked",
+    "text": "Update"
+  },
+  "core.euiSuperUpdateButton.updatingButtonLabel": {
+    "comment": "Displayed in a button that refreshes when updates are happening",
+    "text": "Updating"
+  },
+  "core.euiTableHeaderCell.clickForAscending": {
+    "comment": "Displayed in a button that toggles a table sorting",
+    "text": "Click to sort in ascending order"
+  },
+  "core.euiTableHeaderCell.clickForDescending": {
+    "comment": "Displayed in a button that toggles a table sorting",
+    "text": "Click to sort in descending order"
+  },
+  "core.euiTableHeaderCell.clickForUnsort": {
+    "comment": "Displayed in a button that toggles a table sorting",
+    "text": "Click to unsort"
+  },
+  "core.euiTableHeaderCell.titleTextWithSort": {
+    "comment": "Text describing the table sort order",
+    "text": "{innerText}; Sorted in {ariaSortValue} order"
+  },
+  "core.euiTablePagination.rowsPerPage": {
+    "comment": "Displayed in a button that toggles a table pagination menu",
+    "text": "Rows per page"
+  },
+  "core.euiTablePagination.rowsPerPageOption": {
+    "comment": "Displayed in a button that toggles the number of visible rows",
+    "text": "{rowsPerPage} rows"
+  },
+  "core.euiTableSortMobile.sorting": {
+    "comment": "Displayed in a button that toggles a table sorting menu",
+    "text": "Sorting"
+  },
+  "core.euiToast.dismissToast": "Dismiss toast",
+  "core.euiToast.newNotification": "A new notification appears",
+  "core.euiToast.notification": {
+    "comment": "ARIA label on an element containing a notification",
+    "text": "Notification"
+  },
+  "core.euiTour.closeTour": "Close tour",
+  "core.euiTour.endTour": "End tour",
+  "core.euiTour.skipTour": "Skip tour",
+  "core.euiTourStepIndicator.ariaLabel": {
+    "comment": "Screen reader text describing the state of a tour step",
+    "text": "Step {number} {status}"
+  },
+  "core.euiTourStepIndicator.isActive": {
+    "comment": "Text for an active tour step",
+    "text": "active"
+  },
+  "core.euiTourStepIndicator.isComplete": {
+    "comment": "Text for a completed tour step",
+    "text": "complete"
+  },
+  "core.euiTourStepIndicator.isIncomplete": {
+    "comment": "Text for an incomplete tour step",
+    "text": "incomplete"
+  },
+  "core.euiTreeView.ariaLabel": "{nodeLabel} child of {ariaLabel}",
+  "core.euiTreeView.listNavigationInstructions": "You can quickly navigate this list using arrow keys.",
+  "core.fatalErrors.clearYourSessionButtonLabel": "Clear your session",
+  "core.fatalErrors.goBackButtonLabel": "Go back",
+  "core.fatalErrors.somethingWentWrongTitle": "Something went wrong",
+  "core.fatalErrors.tryRefreshingPageDescription": "Try refreshing the page. If that doesn't work, go back to the previous page or clear your session data.",
+  "core.notifications.errorToast.closeModal": "Close",
+  "core.notifications.globalToast.ariaLabel": "Notification message list",
+  "core.notifications.unableUpdateUISettingNotificationMessageTitle": "Unable to update UI setting",
+  "core.status.greenTitle": "Green",
+  "core.status.redTitle": "Red",
+  "core.status.yellowTitle": "Yellow",
+  "core.statusPage.loadStatus.serverIsDownErrorMessage": "Failed to request server status. Perhaps your server is down?",
+  "core.statusPage.loadStatus.serverStatusCodeErrorMessage": "Failed to request server status with status code {responseStatus}",
+  "core.statusPage.metricsTiles.columns.heapTotalHeader": "Heap total",
+  "core.statusPage.metricsTiles.columns.heapUsedHeader": "Heap used",
+  "core.statusPage.metricsTiles.columns.loadHeader": "Load",
+  "core.statusPage.metricsTiles.columns.requestsPerSecHeader": "Requests per second",
+  "core.statusPage.metricsTiles.columns.resTimeAvgHeader": "Response time avg",
+  "core.statusPage.metricsTiles.columns.resTimeMaxHeader": "Response time max",
+  "core.statusPage.serverStatus.statusTitle": "Kibana status is {kibanaStatus}",
+  "core.statusPage.statusApp.loadingErrorText": "An error occurred loading the status",
+  "core.statusPage.statusApp.statusActions.buildText": "BUILD {buildNum}",
+  "core.statusPage.statusApp.statusActions.commitText": "COMMIT {buildSha}",
+  "core.statusPage.statusApp.statusTitle": "Plugin status",
+  "core.statusPage.statusTable.columns.idHeader": "ID",
+  "core.statusPage.statusTable.columns.statusHeader": "Status",
+  "core.toasts.errorToast.seeFullError": "See the full error",
+  "core.ui.chrome.headerGlobalNav.goHomePageIconAriaLabel": "Elastic home",
+  "core.ui.chrome.headerGlobalNav.helpMenuAskElasticTitle": "Ask Elastic",
+  "core.ui.chrome.headerGlobalNav.helpMenuButtonAriaLabel": "Help menu",
+  "core.ui.chrome.headerGlobalNav.helpMenuDocumentation": "Documentation",
+  "core.ui.chrome.headerGlobalNav.helpMenuGiveFeedbackOnApp": "Give feedback on {appName}",
+  "core.ui.chrome.headerGlobalNav.helpMenuGiveFeedbackTitle": "Give feedback",
+  "core.ui.chrome.headerGlobalNav.helpMenuKibanaDocumentationTitle": "Kibana documentation",
+  "core.ui.chrome.headerGlobalNav.helpMenuOpenGitHubIssueTitle": "Open an issue in GitHub",
+  "core.ui.chrome.headerGlobalNav.helpMenuTitle": "Help",
+  "core.ui.chrome.headerGlobalNav.helpMenuVersion": "v {version}",
+  "core.ui.chrome.headerGlobalNav.logoAriaLabel": "Elastic Logo",
+  "core.ui.enterpriseSearchNavList.label": "Enterprise Search",
+  "core.ui.errorUrlOverflow.bigUrlWarningNotificationMessage": "Either enable the {storeInSessionStorageParam} option in {advancedSettingsLink} or simplify the onscreen visuals.",
+  "core.ui.errorUrlOverflow.bigUrlWarningNotificationMessage.advancedSettingsLinkText": "advanced settings",
+  "core.ui.errorUrlOverflow.bigUrlWarningNotificationTitle": "The URL is big and Kibana might stop working",
+  "core.ui.errorUrlOverflow.errorTitle": "The URL for this object is too long, and we can't display it",
+  "core.ui.errorUrlOverflow.optionsToFixError.doNotUseIEText": "Upgrade to a modern browser. Every other supported browser we know of doesn't have this limit.",
+  "core.ui.errorUrlOverflow.optionsToFixError.enableOptionText": "Enable the {storeInSessionStorageConfig} option in {kibanaSettingsLink}.",
+  "core.ui.errorUrlOverflow.optionsToFixError.enableOptionText.advancedSettingsLinkText": "Advanced Settings",
+  "core.ui.errorUrlOverflow.optionsToFixError.removeStuffFromDashboardText": "Simplify the object you are editing by removing content or filters.",
+  "core.ui.errorUrlOverflow.optionsToFixErrorDescription": "Things to try:",
+  "core.ui.kibanaNavList.label": "Analytics",
+  "core.ui.legacyBrowserMessage": "This Elastic installation has strict security requirements enabled that your current browser does not meet.",
+  "core.ui.legacyBrowserTitle": "Please upgrade your browser",
+  "core.ui.loadingIndicatorAriaLabel": "Loading content",
+  "core.ui.managementNavList.label": "Management",
+  "core.ui.observabilityNavList.label": "Observability",
+  "core.ui.overlays.banner.attentionTitle": "Attention",
+  "core.ui.overlays.banner.closeButtonLabel": "Close",
+  "core.ui.primaryNav.pinnedLinksAriaLabel": "Pinned links",
+  "core.ui.primaryNav.screenReaderLabel": "Primary",
+  "core.ui.primaryNav.toggleNavAriaLabel": "Toggle primary navigation",
+  "core.ui.primaryNavSection.dockAriaLabel": "Dock primary navigation",
+  "core.ui.primaryNavSection.dockLabel": "Dock navigation",
+  "core.ui.primaryNavSection.screenReaderLabel": "Primary navigation links, {category}",
+  "core.ui.primaryNavSection.undockAriaLabel": "Undock primary navigation",
+  "core.ui.primaryNavSection.undockLabel": "Undock navigation",
+  "core.ui.publicBaseUrlWarning.configMissingDescription": "{configKey} is missing and should be configured when running in a production environment. Some features may not behave correctly.",
+  "core.ui.publicBaseUrlWarning.configMissingTitle": "Configuration missing",
+  "core.ui.publicBaseUrlWarning.muteWarningButtonLabel": "Mute warning",
+  "core.ui.publicBaseUrlWarning.seeDocumentationLinkLabel": "See the documentation.",
+  "core.ui.recentLinks.linkItem.screenReaderLabel": "{recentlyAccessedItemLinklabel}, type: {pageType}",
+  "core.ui.recentlyViewed": "Recently viewed",
+  "core.ui.recentlyViewedAriaLabel": "Recently viewed links",
+  "core.ui.securityNavList.label": "Security",
+  "core.ui.welcomeErrorMessage": "Elastic did not load properly. Check the server output for more information.",
+  "core.ui.welcomeMessage": "Loading Elastic",
+  "core.ui_settings.params.darkModeText": "Enable a dark mode for the Kibana UI. A page refresh is required for the setting to be applied.",
+  "core.ui_settings.params.darkModeTitle": "Dark mode",
+  "core.ui_settings.params.dateFormat.dayOfWeekText": "What day should weeks start on?",
+  "core.ui_settings.params.dateFormat.dayOfWeekTitle": "Day of week",
+  "core.ui_settings.params.dateFormat.optionsLinkText": "format",
+  "core.ui_settings.params.dateFormat.scaled.intervalsLinkText": "ISO8601 intervals",
+  "core.ui_settings.params.dateFormat.scaledText": {
+    "comment": "Part of composite text: core.ui_settings.params.dateFormat.scaledText + core.ui_settings.params.dateFormat.scaled.intervalsLinkText",
+    "text": "Values that define the format used in situations where time-based data is rendered in order, and formatted timestamps should adapt to the interval between measurements. Keys are {intervalsLink}."
+  },
+  "core.ui_settings.params.dateFormat.scaledTitle": "Scaled date format",
+  "core.ui_settings.params.dateFormat.timezone.invalidValidationMessage": "Invalid timezone: {timezone}",
+  "core.ui_settings.params.dateFormat.timezoneText": "Which timezone should be used. {defaultOption} will use the timezone detected by your browser.",
+  "core.ui_settings.params.dateFormat.timezoneTitle": "Timezone for date formatting",
+  "core.ui_settings.params.dateFormatText": {
+    "comment": "Part of composite text: core.ui_settings.params.dateFormatText + core.ui_settings.params.dateFormat.optionsLinkText",
+    "text": "When displaying a pretty formatted date, use this {formatLink}"
+  },
+  "core.ui_settings.params.dateFormatTitle": "Date format",
+  "core.ui_settings.params.dateNanosFormatText": "Used for the {dateNanosLink} datatype of Elasticsearch",
+  "core.ui_settings.params.dateNanosFormatTitle": "Date with nanoseconds format",
+  "core.ui_settings.params.dateNanosLinkTitle": "date_nanos",
+  "core.ui_settings.params.dayOfWeekText.invalidValidationMessage": "Invalid day of week: {dayOfWeek}",
+  "core.ui_settings.params.defaultRoute.defaultRouteIsRelativeValidationMessage": "Must be a relative URL.",
+  "core.ui_settings.params.defaultRoute.defaultRouteText": "This setting specifies the default route when opening Kibana. You can use this setting to modify the landing page when opening Kibana. The route must be a relative URL.",
+  "core.ui_settings.params.defaultRoute.defaultRouteTitle": "Default route",
+  "core.ui_settings.params.disableAnimationsText": "Turn off all unnecessary animations in the Kibana UI. Refresh the page to apply the changes.",
+  "core.ui_settings.params.disableAnimationsTitle": "Disable Animations",
+  "core.ui_settings.params.maxCellHeightText": "The maximum height that a cell in a table should occupy. Set to 0 to disable truncation",
+  "core.ui_settings.params.maxCellHeightTitle": "Maximum table cell height",
+  "core.ui_settings.params.notifications.banner.markdownLinkText": "Markdown supported",
+  "core.ui_settings.params.notifications.bannerLifetimeText": "The time in milliseconds which a banner notification will be displayed on-screen for. ",
+  "core.ui_settings.params.notifications.bannerLifetimeTitle": "Banner notification lifetime",
+  "core.ui_settings.params.notifications.bannerText": {
+    "comment": "Part of composite text: core.ui_settings.params.notifications.bannerText + core.ui_settings.params.notifications.banner.markdownLinkText",
+    "text": "A custom banner intended for temporary notices to all users. {markdownLink}."
+  },
+  "core.ui_settings.params.notifications.bannerTitle": "Custom banner notification",
+  "core.ui_settings.params.notifications.errorLifetimeText": "The time in milliseconds which an error notification will be displayed on-screen for. ",
+  "core.ui_settings.params.notifications.errorLifetimeTitle": "Error notification lifetime",
+  "core.ui_settings.params.notifications.infoLifetimeText": "The time in milliseconds which an information notification will be displayed on-screen for. ",
+  "core.ui_settings.params.notifications.infoLifetimeTitle": "Info notification lifetime",
+  "core.ui_settings.params.notifications.warningLifetimeText": "The time in milliseconds which a warning notification will be displayed on-screen for. ",
+  "core.ui_settings.params.notifications.warningLifetimeTitle": "Warning notification lifetime",
+  "core.ui_settings.params.storeUrlText": "The URL can sometimes grow to be too large for some browsers to handle. To counter-act this we are testing if storing parts of the URL in session storage could help. Please let us know how it goes!",
+  "core.ui_settings.params.storeUrlTitle": "Store URLs in session storage",
+  "core.ui_settings.params.themeVersionText": "Switch between the theme used for the current and next version of Kibana. A page refresh is required for the setting to be applied.",
+  "core.ui_settings.params.themeVersionTitle": "Theme version"
+}

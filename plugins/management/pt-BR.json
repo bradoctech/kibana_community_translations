@@ -1,0 +1,22 @@
+{
+  "management.breadcrumb": "Stack Management",
+  "management.landing.header": "Welcome to Stack Management {version}",
+  "management.landing.subhead": "Manage your indices, index patterns, saved objects, Kibana settings, and more.",
+  "management.landing.text": "A complete list of apps is in the menu on the left.",
+  "management.nav.label": "Management",
+  "management.sections.dataTip": "Manage your cluster data and backups",
+  "management.sections.dataTitle": "Data",
+  "management.sections.ingestTip": "Manage how to transform data and load it into the cluster",
+  "management.sections.ingestTitle": "Ingest",
+  "management.sections.insightsAndAlertingTip": "Manage how to detect changes in your data",
+  "management.sections.insightsAndAlertingTitle": "Alerts and Insights",
+  "management.sections.kibanaTip": "Customize Kibana and manage saved objects",
+  "management.sections.kibanaTitle": "Kibana",
+  "management.sections.section.tip": "Control access to features and data",
+  "management.sections.section.title": "Security",
+  "management.sections.stackTip": "Manage your license and upgrade the Stack",
+  "management.sections.stackTitle": "Stack",
+  "management.stackManagement.managementDescription": "Your center console for managing the Elastic Stack.",
+  "management.stackManagement.managementLabel": "Stack Management",
+  "management.stackManagement.title": "Stack Management"
+}

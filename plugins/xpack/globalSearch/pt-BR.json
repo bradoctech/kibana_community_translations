@@ -1,0 +1,3 @@
+{
+  "xpack.globalSearch.find.invalidLicenseError": "GlobalSearch API is disabled because of invalid license state: {errorMessage}"
+}

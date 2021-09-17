@@ -1,0 +1,3 @@
+{
+  "xpack.eventLog.savedObjectProviderRegistry.getProvidersClient.noDefaultProvider": "The Event Log requires a default Provider."
+}

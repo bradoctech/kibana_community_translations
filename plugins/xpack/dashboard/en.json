@@ -1,0 +1,9 @@
+{
+  "xpack.dashboard.FlyoutCreateDrilldownAction.displayName": "Create drilldown",
+  "xpack.dashboard.components.DashboardDrilldownConfig.chooseDestinationDashboard": "Choose destination dashboard",
+  "xpack.dashboard.components.DashboardDrilldownConfig.useCurrentDateRange": "Use date range from origin dashboard",
+  "xpack.dashboard.components.DashboardDrilldownConfig.useCurrentFilters": "Use filters and query from origin dashboard",
+  "xpack.dashboard.drilldown.errorDestinationDashboardIsMissing": "Destination dashboard ('{dashboardId}') no longer exists. Choose another dashboard.",
+  "xpack.dashboard.drilldown.goToDashboard": "Go to Dashboard",
+  "xpack.dashboard.panel.openFlyoutEditDrilldown.displayName": "Manage drilldowns"
+}

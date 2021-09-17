@@ -1,0 +1,13 @@
+{
+  "xpack.banners.settings.backgroundColor.description": "Set the background color for the banner. {subscriptionLink}",
+  "xpack.banners.settings.backgroundColor.title": "Banner background color",
+  "xpack.banners.settings.placement.description": "Display a top banner for this space, above the Elastic header. {subscriptionLink}",
+  "xpack.banners.settings.placement.disabled": "Disabled",
+  "xpack.banners.settings.placement.title": "Banner placement",
+  "xpack.banners.settings.placement.top": "Top",
+  "xpack.banners.settings.subscriptionRequiredLink.text": "Subscription required.",
+  "xpack.banners.settings.text.description": "Add Markdown-formatted text to the banner. {subscriptionLink}",
+  "xpack.banners.settings.textColor.description": "Set the color of the banner text. {subscriptionLink}",
+  "xpack.banners.settings.textColor.title": "Banner text color",
+  "xpack.banners.settings.textContent.title": "Banner text"
+}

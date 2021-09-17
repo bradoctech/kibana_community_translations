@@ -1,0 +1,10 @@
+{
+  "lists.exceptions.doesNotExistOperatorLabel": "does not exist",
+  "lists.exceptions.existsOperatorLabel": "exists",
+  "lists.exceptions.isInListOperatorLabel": "is in list",
+  "lists.exceptions.isNotInListOperatorLabel": "is not in list",
+  "lists.exceptions.isNotOneOfOperatorLabel": "is not one of",
+  "lists.exceptions.isNotOperatorLabel": "is not",
+  "lists.exceptions.isOneOfOperatorLabel": "is one of",
+  "lists.exceptions.isOperatorLabel": "is"
+}

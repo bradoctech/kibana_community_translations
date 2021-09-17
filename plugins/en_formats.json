@@ -1,0 +1,76 @@
+{
+  "date": {
+    "full": {
+      "day": "numeric",
+      "month": "long",
+      "weekday": "long",
+      "year": "numeric"
+    },
+    "long": {
+      "day": "numeric",
+      "month": "long",
+      "year": "numeric"
+    },
+    "medium": {
+      "day": "numeric",
+      "month": "short",
+      "year": "numeric"
+    },
+    "short": {
+      "day": "numeric",
+      "month": "numeric",
+      "year": "2-digit"
+    }
+  },
+  "number": {
+    "currency": {
+      "style": "currency"
+    },
+    "percent": {
+      "style": "percent"
+    }
+  },
+  "relative": {
+    "days": {
+      "units": "day"
+    },
+    "hours": {
+      "units": "hour"
+    },
+    "minutes": {
+      "units": "minute"
+    },
+    "months": {
+      "units": "month"
+    },
+    "seconds": {
+      "units": "second"
+    },
+    "years": {
+      "units": "year"
+    }
+  },
+  "time": {
+    "full": {
+      "hour": "numeric",
+      "minute": "numeric",
+      "second": "numeric",
+      "timeZoneName": "short"
+    },
+    "long": {
+      "hour": "numeric",
+      "minute": "numeric",
+      "second": "numeric",
+      "timeZoneName": "short"
+    },
+    "medium": {
+      "hour": "numeric",
+      "minute": "numeric",
+      "second": "numeric"
+    },
+    "short": {
+      "hour": "numeric",
+      "minute": "numeric"
+    }
+  }
+}

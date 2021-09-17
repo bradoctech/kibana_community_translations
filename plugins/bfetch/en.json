@@ -1,0 +1,4 @@
+{
+  "bfetch.disableBfetchCompression": "Disable Batch Compression",
+  "bfetch.disableBfetchCompressionDesc": "Disable batch compression. This allows you to debug individual requests, but increases response size."
+}
