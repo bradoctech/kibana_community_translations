@@ -1,0 +1,23 @@
+{
+  "xpack.grokDebugger.basicLicenseTitle": "Basic",
+  "xpack.grokDebugger.customPatterns.callOutTitle": "Enter one custom pattern per line. For example:",
+  "xpack.grokDebugger.customPatternsButtonLabel": "Custom Patterns",
+  "xpack.grokDebugger.displayName": "Grok Debugger",
+  "xpack.grokDebugger.goldLicenseTitle": "Gold",
+  "xpack.grokDebugger.grokPatternLabel": "Grok Pattern",
+  "xpack.grokDebugger.licenseErrorMessageDescription": "The Grok Debugger requires an active license ({licenseTypeList} or {platinumLicenseType}), but none were found in your cluster.",
+  "xpack.grokDebugger.licenseErrorMessageTitle": "License error",
+  "xpack.grokDebugger.patternsErrorMessage": "Provided {grokLogParsingTool} patterns do not match data in the input",
+  "xpack.grokDebugger.platinumLicenseTitle": "Platinum",
+  "xpack.grokDebugger.registerLicenseDescription": "Please {registerLicenseLink} to continue using the Grok Debugger",
+  "xpack.grokDebugger.registerLicenseLinkLabel": "register a license",
+  "xpack.grokDebugger.registryProviderDescription": "Simulate and debug grok patterns for data transformation on ingestion.",
+  "xpack.grokDebugger.registryProviderTitle": "Grok Debugger",
+  "xpack.grokDebugger.sampleDataLabel": "Sample Data",
+  "xpack.grokDebugger.serverInactiveLicenseError": "The Grok Debugger tool requires an active license.",
+  "xpack.grokDebugger.simulate.errorTitle": "Simulate error",
+  "xpack.grokDebugger.simulateButtonLabel": "Simulate",
+  "xpack.grokDebugger.structuredDataLabel": "Structured Data",
+  "xpack.grokDebugger.trialLicenseTitle": "Trial",
+  "xpack.grokDebugger.unknownErrorTitle": "Something went wrong"
+}

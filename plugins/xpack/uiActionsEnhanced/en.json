@@ -1,0 +1,128 @@
+{
+  "xpack.uiActionsEnhanced.CustomActions": "Custom actions",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.betaActionLabel": "Beta",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.betaActionTooltip": "This action is in beta and is subject to change. The design and code is less mature than official GA features and is being provided as-is with no warranties. Beta features are not subject to the support SLA of official GA features. Please help us by reporting any bugs or providing other feedback.",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.changeButton": "Change",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.drilldownAction": "Action",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.getMoreActionsLinkLabel": "Get more actions",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.nameOfDrilldown": "Name",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.trigger": "Trigger",
+  "xpack.uiActionsEnhanced.components.DrilldownForm.untitledDrilldown": "Untitled drilldown",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.actionColumnTitle": "Action",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.copyDrilldownButtonLabel": "Copy",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.createDrilldownButtonLabel": "Create new",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.deleteDrilldownsButtonLabel": "Delete ({count})",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.editDrilldownButtonLabel": "Edit",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.nameColumnTitle": "Name",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.selectThisDrilldownCheckboxLabel": "Select this drilldown",
+  "xpack.uiActionsEnhanced.components.DrilldownTable.triggerColumnTitle": "Trigger",
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.actionColumnTitle": "Action",
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.copyButtonLabel": {
+    "comment": "Label of drilldown template table bottom copy button.",
+    "text": "Copy ({count})"
+  },
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.nameColumnTitle": {
+    "comment": "Title of the first column in drilldown template cloning table.",
+    "text": "Name"
+  },
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.selectableMessage": "Select this template",
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.singleItemCopyAction": {
+    "comment": "\"Copy\" action button label in drilldown template cloning table last column.",
+    "text": "Copy"
+  },
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.sourceColumnTitle": {
+    "comment": "Column title which describes from where the drilldown is cloned.",
+    "text": "Panel"
+  },
+  "xpack.uiActionsEnhanced.components.DrilldownTemplateTable.triggerColumnTitle": "Trigger",
+  "xpack.uiActionsEnhanced.components.TriggerLineItem.incompatibleTooltip": "This trigger type not supported by this panel",
+  "xpack.uiActionsEnhanced.components.TriggerPickerItem.unknown": "Unknown",
+  "xpack.uiActionsEnhanced.components.actionWizard.betaActionLabel": "Beta",
+  "xpack.uiActionsEnhanced.components.actionWizard.betaActionTooltip": "This action is in beta and is subject to change. The design and code is less mature than official GA features and is being provided as-is with no warranties. Beta features are not subject to the support SLA of official GA features. Please help us by reporting any bugs or providing other feedback.",
+  "xpack.uiActionsEnhanced.components.actionWizard.changeButton": "Change",
+  "xpack.uiActionsEnhanced.components.actionWizard.insufficientLicenseLevelTooltip": "Insufficient license level",
+  "xpack.uiActionsEnhanced.components.actionWizard.triggerPickerHelpText": "What's this?",
+  "xpack.uiActionsEnhanced.components.actionWizard.triggerPickerHelpTooltip": "Determines when the drilldown appears in context menu",
+  "xpack.uiActionsEnhanced.components.actionWizard.triggerPickerLabel": "Show option on:",
+  "xpack.uiActionsEnhanced.customizePanelTimeRange.modal.addToPanelButtonTitle": "Add to panel",
+  "xpack.uiActionsEnhanced.customizePanelTimeRange.modal.cancelButtonTitle": "Cancel",
+  "xpack.uiActionsEnhanced.customizePanelTimeRange.modal.optionsMenuForm.panelTitleFormRowLabel": "Time range",
+  "xpack.uiActionsEnhanced.customizePanelTimeRange.modal.removeButtonTitle": "Remove",
+  "xpack.uiActionsEnhanced.customizePanelTimeRange.modal.updatePanelTimeRangeButtonTitle": "Update",
+  "xpack.uiActionsEnhanced.customizeTimeRange.modal.headerTitle": "Customize panel time range",
+  "xpack.uiActionsEnhanced.customizeTimeRangeMenuItem.displayName": "Customize time range",
+  "xpack.uiActionsEnhanced.drilldownManager.containers.TemplatePicker.label": {
+    "comment": "Label above template picker table.",
+    "text": "Copy existing drilldown"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.components.DrilldownHelloBar.helpText": "Drilldowns enable you to define new behaviors for interacting with panels. You can add multiple actions and override the default filter.",
+  "xpack.uiActionsEnhanced.drilldowns.components.DrilldownHelloBar.hideHelpButtonLabel": "Hide",
+  "xpack.uiActionsEnhanced.drilldowns.components.DrilldownHelloBar.viewDocsLinkLabel": "View docs",
+  "xpack.uiActionsEnhanced.drilldowns.components.FlyoutFrame.BackButtonLabel": "Back",
+  "xpack.uiActionsEnhanced.drilldowns.components.FlyoutFrame.CloseButtonLabel": "Close",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.createDrilldownTitle": "Create Drilldown",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.deleteDrilldownButtonLabel": "Delete drilldown",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.editDrilldownTitle": "Edit Drilldown",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.insufficientLicenseLevelError": {
+    "comment": "User created drilldown with higher license type, but then downgraded the license. This error is shown in the list near created drilldown",
+    "text": "Insufficient license level"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.invalidDrilldownType": "Drilldown type {type} doesn't exist",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownCreatedText": "Save your dashboard before testing.",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownCreatedTitle": "Drilldown \"{drilldownName}\" created",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownDeletedText": "Save your dashboard before testing.",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownDeletedTitle": "Drilldown deleted",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownEditedText": "Save your dashboard before testing.",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownEditedTitle": "Drilldown \"{drilldownName}\" updated",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownsCRUDErrorTitle": {
+    "comment": "Title for generic error toast when persisting drilldown updates failed",
+    "text": "Error saving drilldown"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownsDeletedText": "Save your dashboard before testing.",
+  "xpack.uiActionsEnhanced.drilldowns.components.flyoutDrilldownWizard.toast.drilldownsDeletedTitle": "{n} drilldowns deleted",
+  "xpack.uiActionsEnhanced.drilldowns.containers.DrilldownManager.createNew": "Create new",
+  "xpack.uiActionsEnhanced.drilldowns.containers.DrilldownManager.manage": "Manage",
+  "xpack.uiActionsEnhanced.drilldowns.containers.createDrilldownForm.primaryButton": {
+    "comment": "Primary button on new drilldown creation form.",
+    "text": "Create drilldown"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.containers.createDrilldownForm.title": {
+    "comment": "Drilldowns flyout title for new drilldown form.",
+    "text": "Create Drilldown"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.containers.drilldownList.copyingNotification.body": {
+    "comment": "Title of notification show when one or more drilldowns were copied.",
+    "text": "{count, number} {count, plural, one {drilldown} other {drilldowns}} copied."
+  },
+  "xpack.uiActionsEnhanced.drilldowns.containers.drilldownList.copyingNotification.dismiss": {
+    "comment": "Dismiss button in cloning notification callout.",
+    "text": "Dismiss"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.containers.editDrilldownForm.primaryButton": {
+    "comment": "Primary button on new drilldown edit form.",
+    "text": "Save"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.containers.editDrilldownForm.title": {
+    "comment": "Drilldowns flyout title for edit drilldown form.",
+    "text": "Edit Drilldown"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.drilldownManager.state.defaultTitle": {
+    "comment": "Drilldowns flyout title.",
+    "text": "Drilldowns"
+  },
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.addVariableButtonTitle": "Add variable",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.additionalOptions": "Additional options",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.encodeDescription": "If enabled, URL will be escaped using percent encoding",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.encodeUrl": "Encode URL",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.openInNewTabLabel": "Open in new window",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlPreviewHelpText": "Please note that in preview \\{\\{event.*\\}\\} variables are substituted with dummy values.",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlPreviewLabel": "URL preview:",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlPreviewLinkText": "Preview",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlTemplateLabel": "Enter URL:",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlTemplatePlaceholderText": "Example: {exampleUrl}",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlTemplateSyntaxHelpLinkText": "Syntax help",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlTemplateVariablesFilterPlaceholderText": "Filter variables",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownCollectConfig.urlTemplateVariablesHelpLinkText": "Help",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownValidation.urlFormatErrorMessage": "Invalid format: {message}",
+  "xpack.uiActionsEnhanced.drilldowns.urlDrilldownValidation.urlFormatGeneralErrorMessage": "Invalid format. Example: {exampleUrl}"
+}

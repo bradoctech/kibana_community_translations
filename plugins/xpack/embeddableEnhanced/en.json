@@ -1,0 +1,5 @@
+{
+  "xpack.embeddableEnhanced.Drilldowns": "Drilldowns",
+  "xpack.embeddableEnhanced.actions.panelNotifications.manyDrilldowns": "Panel has {count} drilldowns",
+  "xpack.embeddableEnhanced.actions.panelNotifications.oneDrilldown": "Panel has 1 drilldown"
+}

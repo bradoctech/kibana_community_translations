@@ -1,0 +1,23 @@
+{
+  "tileMap.function.help": "Tilemap visualization",
+  "tileMap.geohashLayer.mapTitle": "{mapType} mapType not recognized",
+  "tileMap.legendPositions.bottomLeftText": "Bottom left",
+  "tileMap.legendPositions.bottomRightText": "Bottom right",
+  "tileMap.legendPositions.topLeftText": "Top left",
+  "tileMap.legendPositions.topRightText": "Top right",
+  "tileMap.mapTypes.heatmapText": "Heatmap",
+  "tileMap.mapTypes.scaledCircleMarkersText": "Scaled circle markers",
+  "tileMap.mapTypes.shadedCircleMarkersText": "Shaded circle markers",
+  "tileMap.mapTypes.shadedGeohashGridText": "Shaded geohash grid",
+  "tileMap.tooltipFormatter.latitudeLabel": "Latitude",
+  "tileMap.tooltipFormatter.longitudeLabel": "Longitude",
+  "tileMap.vis.map.editorConfig.schemas.geoCoordinatesTitle": "Geo coordinates",
+  "tileMap.vis.map.editorConfig.schemas.metricTitle": "Value",
+  "tileMap.vis.mapDescription": "Plot latitude and longitude coordinates on a map",
+  "tileMap.vis.mapTitle": "Coordinate Map",
+  "tileMap.visParams.clusterSizeLabel": "Cluster size",
+  "tileMap.visParams.colorSchemaLabel": "Color schema",
+  "tileMap.visParams.desaturateTilesLabel": "Desaturate tiles",
+  "tileMap.visParams.mapTypeLabel": "Map type",
+  "tileMap.visParams.reduceVibrancyOfTileColorsTip": "Reduce the vibrancy of tile colors. This does not work in any version of Internet Explorer."
+}

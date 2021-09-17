@@ -1,0 +1,5 @@
+{
+  "xpack.main.uiSettings.adminEmailDeprecation": "This setting is deprecated and will not be supported in Kibana 8.0. Please configure `monitoring.cluster_alerts.email_notifications.email_address` in your kibana.yml settings.",
+  "xpack.main.uiSettings.adminEmailDescription": "Recipient email address for X-Pack admin operations, such as Cluster Alert email notifications from Monitoring.",
+  "xpack.main.uiSettings.adminEmailTitle": "Admin email"
+}

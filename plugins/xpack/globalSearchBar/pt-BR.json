@@ -1,0 +1,17 @@
+{
+  "xpack.globalSearchBar.searchBar.helpText.helpTextConjunction": "or",
+  "xpack.globalSearchBar.searchBar.helpText.helpTextPrefix": "Filter by",
+  "xpack.globalSearchBar.searchBar.mobileSearchButtonAriaLabel": "Site-wide search",
+  "xpack.globalSearchBar.searchBar.noResults": "Try searching for applications, dashboards, visualizations, and more.",
+  "xpack.globalSearchBar.searchBar.noResultsHeading": "No results found",
+  "xpack.globalSearchBar.searchBar.noResultsImageAlt": "Illustration of black hole",
+  "xpack.globalSearchBar.searchBar.optionTagListAriaLabel": "Tags",
+  "xpack.globalSearchBar.searchBar.placeholder": "Search Elastic",
+  "xpack.globalSearchBar.searchBar.shortcutDescription.macCommandDescription": "Command + /",
+  "xpack.globalSearchBar.searchBar.shortcutDescription.shortcutDetail": "{shortcutDescription} {commandDescription}",
+  "xpack.globalSearchBar.searchBar.shortcutDescription.shortcutInstructionDescription": "Shortcut",
+  "xpack.globalSearchBar.searchBar.shortcutDescription.windowsCommandDescription": "Control + /",
+  "xpack.globalSearchBar.searchbar.overflowTagsAriaLabel": "{n} more {n, plural, one {tag} other {tags}}: {tags}",
+  "xpack.globalSearchBar.suggestions.filterByTagLabel": "Filter by tag name",
+  "xpack.globalSearchBar.suggestions.filterByTypeLabel": "Filter by type"
+}

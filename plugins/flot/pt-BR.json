@@ -1,0 +1,22 @@
+{
+  "flot.pie.unableToDrawLabelsInsideCanvasErrorMessage": "Could not draw pie with labels contained inside canvas",
+  "flot.time.aprLabel": "Apr",
+  "flot.time.augLabel": "Aug",
+  "flot.time.decLabel": "Dec",
+  "flot.time.febLabel": "Feb",
+  "flot.time.friLabel": "Fri",
+  "flot.time.janLabel": "Jan",
+  "flot.time.julLabel": "Jul",
+  "flot.time.junLabel": "Jun",
+  "flot.time.marLabel": "Mar",
+  "flot.time.mayLabel": "May",
+  "flot.time.monLabel": "Mon",
+  "flot.time.novLabel": "Nov",
+  "flot.time.octLabel": "Oct",
+  "flot.time.satLabel": "Sat",
+  "flot.time.sepLabel": "Sep",
+  "flot.time.sunLabel": "Sun",
+  "flot.time.thuLabel": "Thu",
+  "flot.time.tueLabel": "Tue",
+  "flot.time.wedLabel": "Wed"
+}

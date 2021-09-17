@@ -1,0 +1,10 @@
+{
+  "newsfeed.emptyPrompt.noNewsText": "If your Kibana instance doesn\u2019t have internet access, ask your administrator to disable this feature. Otherwise, we\u2019ll keep trying to fetch the news.",
+  "newsfeed.emptyPrompt.noNewsTitle": "No news?",
+  "newsfeed.flyoutList.closeButtonLabel": "Close",
+  "newsfeed.flyoutList.versionTextLabel": "{version}",
+  "newsfeed.flyoutList.whatsNewTitle": "What's new at Elastic",
+  "newsfeed.headerButton.readAriaLabel": "Newsfeed menu - all items read",
+  "newsfeed.headerButton.unreadAriaLabel": "Newsfeed menu - unread items available",
+  "newsfeed.loadingPrompt.gettingNewsText": "Getting the latest news..."
+}

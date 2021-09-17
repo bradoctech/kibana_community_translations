@@ -1,0 +1,20 @@
+{
+  "xpack.runtimeFields.editor.flyoutCloseButtonLabel": "Close",
+  "xpack.runtimeFields.editor.flyoutDefaultTitle": "Create new field",
+  "xpack.runtimeFields.editor.flyoutEditFieldTitle": "Edit {fieldName} field",
+  "xpack.runtimeFields.editor.flyoutSaveButtonLabel": "Salvar",
+  "xpack.runtimeFields.editor.validationErrorTitle": "Fix errors in form before continuing.",
+  "xpack.runtimeFields.form.defineFieldLabel": "Define script (optional)",
+  "xpack.runtimeFields.form.fieldShadowingCalloutDescription": "This field shares the name of a mapped field. Values for this field will be returned in search results.",
+  "xpack.runtimeFields.form.fieldShadowingCalloutTitle": "Field shadowing",
+  "xpack.runtimeFields.form.nameAriaLabel": "Name field",
+  "xpack.runtimeFields.form.nameLabel": "Name",
+  "xpack.runtimeFields.form.runtimeType.placeholderLabel": "Select a type",
+  "xpack.runtimeFields.form.runtimeTypeLabel": "Type",
+  "xpack.runtimeFields.form.script.learnMoreLinkText": "Learn about script syntax.",
+  "xpack.runtimeFields.form.scriptEditorAriaLabel": "Script editor",
+  "xpack.runtimeFields.form.source.scriptFieldHelpText": "Runtime fields without a script retrieve values from a field with the same name in {source}. If a field with the same name doesn\u2019t exist, no values return when a search request includes the runtime field. {learnMoreLink}",
+  "xpack.runtimeFields.form.typeSelectAriaLabel": "Type select",
+  "xpack.runtimeFields.form.validations.nameIsRequiredErrorMessage": "Give a name to the field.",
+  "xpack.runtimeFields.runtimeFieldsEditor.existRuntimeFieldNamesValidationErrorMessage": "There is already a field with this name."
+}

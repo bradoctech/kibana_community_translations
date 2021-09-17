@@ -1,0 +1,21 @@
+{
+  "xpack.lists.andOrBadge.andLabel": "AND",
+  "xpack.lists.andOrBadge.orLabel": "OR",
+  "xpack.lists.autocomplete.fieldRequiredError": "Value cannot be empty",
+  "xpack.lists.autocomplete.invalidDateError": "Not a valid date",
+  "xpack.lists.autocomplete.invalidNumberError": "Not a valid number",
+  "xpack.lists.autocomplete.loadingDescription": "Loading...",
+  "xpack.lists.autocomplete.selectField": "Please select a field first...",
+  "xpack.lists.exceptions.andDescription": "AND",
+  "xpack.lists.exceptions.builder.addNestedDescription": "Add nested condition",
+  "xpack.lists.exceptions.builder.addNonNestedDescription": "Add non-nested condition",
+  "xpack.lists.exceptions.builder.exceptionFieldNestedPlaceholder": "Search nested field",
+  "xpack.lists.exceptions.builder.exceptionFieldPlaceholder": "Search",
+  "xpack.lists.exceptions.builder.exceptionFieldValuePlaceholder": "Search field value...",
+  "xpack.lists.exceptions.builder.exceptionListsPlaceholder": "Search for list...",
+  "xpack.lists.exceptions.builder.exceptionOperatorPlaceholder": "Operator",
+  "xpack.lists.exceptions.builder.fieldLabel": "Field",
+  "xpack.lists.exceptions.builder.operatorLabel": "Operator",
+  "xpack.lists.exceptions.builder.valueLabel": "Value",
+  "xpack.lists.exceptions.orDescription": "OR"
+}

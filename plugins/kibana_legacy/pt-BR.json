@@ -1,0 +1,10 @@
+{
+  "kibana_legacy.notify.fatalError.errorStatusMessage": "Error {errStatus} {errStatusText}: {errMessage}",
+  "kibana_legacy.notify.fatalError.unavailableServerErrorMessage": "An HTTP request has failed to connect. Please check if the Kibana server is running and that your browser has a working connection, or contact your system administrator.",
+  "kibana_legacy.notify.toaster.errorMessage": "Error: {errorMessage}\n      {errorStack}",
+  "kibana_legacy.notify.toaster.errorStatusMessage": "Error {errStatus} {errStatusText}: {errMessage}",
+  "kibana_legacy.notify.toaster.unavailableServerErrorMessage": "An HTTP request has failed to connect. Please check if the Kibana server is running and that your browser has a working connection, or contact your system administrator.",
+  "kibana_legacy.paginate.controls.pageSizeLabel": "Page Size",
+  "kibana_legacy.paginate.controls.scrollTopButtonLabel": "Scroll to top",
+  "kibana_legacy.paginate.size.allDropDownOptionLabel": "All"
+}

@@ -1,0 +1,5 @@
+{
+  "xpack.dashboardMode.uiSettings.dashboardsOnlyRolesDeprecation": "This setting is deprecated and will be removed in Kibana 8.0.",
+  "xpack.dashboardMode.uiSettings.dashboardsOnlyRolesDescription": "Roles that belong to View Dashboards Only mode",
+  "xpack.dashboardMode.uiSettings.dashboardsOnlyRolesTitle": "Dashboards only roles"
+}

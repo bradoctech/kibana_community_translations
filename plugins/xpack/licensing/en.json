@@ -1,0 +1,8 @@
+{
+  "xpack.licensing.check.errorExpiredMessage": "You cannot use {pluginName} because your {licenseType} license has expired.",
+  "xpack.licensing.check.errorUnavailableMessage": "You cannot use {pluginName} because license information is not available at this time.",
+  "xpack.licensing.check.errorUnsupportedMessage": "Your {licenseType} license does not support {pluginName}. Please upgrade your license.",
+  "xpack.licensing.welcomeBanner.licenseIsExpiredDescription": "Contact your administrator or {updateYourLicenseLinkText} directly.",
+  "xpack.licensing.welcomeBanner.licenseIsExpiredDescription.updateYourLicenseLinkText": "update your license",
+  "xpack.licensing.welcomeBanner.licenseIsExpiredTitle": "Your {licenseType} license is expired"
+}

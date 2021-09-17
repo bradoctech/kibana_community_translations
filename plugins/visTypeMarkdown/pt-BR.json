@@ -1,0 +1,13 @@
+{
+  "visTypeMarkdown.function.font.help": "Font settings.",
+  "visTypeMarkdown.function.help": "Markdown visualization",
+  "visTypeMarkdown.function.markdown.help": "Markdown to render",
+  "visTypeMarkdown.function.openLinksInNewTab.help": "Opens links in new tab",
+  "visTypeMarkdown.markdownDescription": "Add text and images to your dashboard.",
+  "visTypeMarkdown.markdownTitleInWizard": "Texto",
+  "visTypeMarkdown.params.fontSizeLabel": "Base font size in points",
+  "visTypeMarkdown.params.helpLinkLabel": "Help",
+  "visTypeMarkdown.params.openLinksLabel": "Open links in new tab",
+  "visTypeMarkdown.tabs.dataText": "Data",
+  "visTypeMarkdown.tabs.optionsText": "Options"
+}

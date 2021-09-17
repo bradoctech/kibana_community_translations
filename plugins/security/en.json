@@ -1,0 +1,7 @@
+{
+  "security.checkup.dismissButtonText": "Dismiss",
+  "security.checkup.dontShowAgain": "Don't show again",
+  "security.checkup.insecureClusterMessage": "Don't lose one bit. Secure your data for free with Elastic.",
+  "security.checkup.insecureClusterTitle": "Your data is not secure",
+  "security.checkup.learnMoreButtonText": "Learn more"
+}
